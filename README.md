@@ -35,4 +35,5 @@ File Formats – .pbix used for dashboard development and maintenance; exported 
 (Analyzes trends by time, geography, and product to uncover actionable insights.)
 
 **VII Screenshot
-**Image - [Dahboard Preview](https://github.com/parmarjagnoor-cmd/Maven-Projects/blob/main/Dashboard%20Screenshot.jpg)
+**
+Image - ![Dahboard Preview](https://github.com/parmarjagnoor-cmd/Maven-Projects/blob/main/Dashboard%20Screenshot.jpg)
