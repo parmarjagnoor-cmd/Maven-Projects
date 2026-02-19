@@ -6,8 +6,8 @@ Developed an end-to-end Power BI dashboard to analyze sales trends and customer 
 **Objective**
 To create an interactive and easy-to-use dashboard that provides clear visibility into revenue, customer behavior, and performance across time, regions, and product categories.
 
-**What I Did
-**Cleaned and transformed raw data using Power Query
+**What I Did**
+Cleaned and transformed raw data using Power Query
 Built a star-schema data model with fact and dimension tables
 Created DAX measures for key metrics such as Total Revenue, Orders, Average Order Value, and time-based comparisons
 Designed interactive visuals with slicers, drill-through, and tooltips for deeper analysis
