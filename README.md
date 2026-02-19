@@ -1,4 +1,5 @@
 # Power BI Sales & Customer Performance Dashboard
+![Dahboard Preview](https://github.com/parmarjagnoor-cmd/Maven-Projects/blob/main/Dashboard%20Screenshot.jpg)
 
 **Overview**
 Developed an end-to-end Power BI dashboard to analyze sales trends and customer performance, enabling stakeholders to quickly track business KPIs and identify growth opportunities.
